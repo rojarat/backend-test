@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://chayanin:12345@testdev.zkyik.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
